@@ -1,0 +1,44 @@
+/****Vs Code Settings/
+{
+    "workbench.colorTheme": "Bearded Theme Solarized",
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum','calt', 'ss01'",
+    "editor.fontFamily": "'Cascadia Code',Consolas, 'Courier New', monospace",
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": -1,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "chatgpt.domain": "commerce",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.bracketSameLine": true,
+    "prettier.singleAttributePerLine": true,
+    "chatgpt.platform": "Salesforce CRM",
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
